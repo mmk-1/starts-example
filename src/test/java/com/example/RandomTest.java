@@ -1,8 +1,10 @@
-package com.sohamkamani;
+package com.example;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import com.example.A;
 
 /**
  * Unit test for simple App.

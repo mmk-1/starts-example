@@ -1,4 +1,4 @@
-package com.sohamkamani;
+package com.example;
 
 class B {
     public void foo() {

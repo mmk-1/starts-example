@@ -1,4 +1,4 @@
-package com.sohamkamani;
+package com.example;
 
 public class A {
     // public static int i = 0;
