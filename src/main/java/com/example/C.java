@@ -6,5 +6,6 @@ class C extends B{
         System.out.println("C foo");
         System.out.println("C foo");
         System.out.println("C foo");
+        System.out.println("C foo");
     }
 }

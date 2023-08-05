@@ -22,6 +22,7 @@ public class AppTest
         A a = new A();
         A.inc(1);
         assertTrue( true );
+        A.inc();
     }
 
     @Test
