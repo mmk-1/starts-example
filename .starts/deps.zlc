@@ -1,0 +1,12 @@
+PLAIN_TEXT
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class 1301812891 com.example.DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/RandomTest.class 144358671 com.example.RandomTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTest.class 1266702551 com.example.AppTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/App.class 1914287146 com.example.App,com.example.AppTTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTTest.class 1954283299 com.example.AppTTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class 2221516432 com.example.DTest,com.example.D
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class 2006190145 com.example.AppTest,com.example.C
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/B.class 2559515635 com.example.RandomTest,com.example.AppTest,com.example.C,com.example.B,com.example.A
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class 706473622 com.example.RandomTest,com.example.AppTest,com.example.A
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class 139364363 com.example.G
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class 612804013 com.example.E

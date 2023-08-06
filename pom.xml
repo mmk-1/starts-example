@@ -123,12 +123,10 @@
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven−sureﬁre−plugin</artifactId>
-        <version>2.20</version> <!-- 2.20 or greater -->
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.16</version>
         <configuration>
-          <!-- Use $HOME/.m2/repository/javamop-agent/javamop-agent/1.0/javamop-agent-1.0.jar -->
-          <!-- if you do not have a specific javamop agent jar that you want to use. -->
-          <argLine>−javaagent:${JavaMOP jar}</argLine>
+          <argLine>-javaagent:${settings.localRepository}/javamop-agent/javamop-agent/1.0/javamop-agent-1.0.jar</argLine>
         </configuration>
       </plugin>
       <plugin>
@@ -136,6 +134,7 @@
         <groupId>edu.cornell</groupId>
         <version>1.0-SNAPSHOT</version>
       </plugin>
+
     </plugins>
 
 
