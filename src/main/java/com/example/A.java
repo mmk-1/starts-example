@@ -1,5 +1,7 @@
 package com.example;
 
+import java.util.Collection;
+
 public class A {
     public static int i = 0;
 
@@ -23,5 +25,16 @@ public class A {
     public static void main(String[] args) {
 
         int a = 13;
+    }
+
+
+    public int countT (Collection<String> collection) {
+        int count = 0;
+        for (String element : collection) {
+            count++;
+        }
+        count ++;
+        count --;
+        return count;
     }
 }

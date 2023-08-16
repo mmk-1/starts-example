@@ -5,12 +5,9 @@ public class D {
     private void foo() {
         System.out.println("D foo");
         System.out.println("D foo");
-        System.out.println("D foo");
-        foo2();
     }
 
     private void foo2() {
-        System.out.println("D foo");
         System.out.println("D foo");
         System.out.println("D foo");
         foo();
@@ -20,12 +17,17 @@ public class D {
         System.out.println("D foo");
         System.out.println("D foo");
         System.out.println("D foo");
-        System.out.println("D foo");
         i+=6; 
     }   
 
     public void inc(){
-        i+=12;
+        i+=20;
+    }
+
+
+    public void in2(){
+        System.out.println("inc3");
+        foo();
     }
 
 }

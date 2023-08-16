@@ -10,6 +10,9 @@ public class App
         for (String element : collection) {
             count++;
         }
+        count ++;
+        count --;
         return count;
     }
+
 }
