@@ -1,7 +1,10 @@
 package com.example;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 
 class C extends B {
     private static int i = 0;
@@ -13,15 +16,18 @@ class C extends B {
         System.out.println("C foo");
     }
 
-    public void negativeTest1() {
-        new ArrayList<>().iterator().next();
+
+    public void foo2() {
+        System.out.println("C foo");
+        System.out.println("C foo");
     }
 
-    private static void testIterator(Iterable<String> strings) {
-        final Iterator<String> si = strings.iterator();
-
-        si.next();
-        si.next();
+    public void foo3() {
+        System.out.println("C foo");
+        System.out.println("C foo");
+        System.out.println("C foo");
+        System.out.println("C foo");
     }
+
 
 }

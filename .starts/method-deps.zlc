@@ -1,0 +1,56 @@
+PLAIN_TEXT
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class#foo3() a4ea38a7a16d97aa16214dc085aff500
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#foo3() ab5ab483e1193ca3ff0c3e79d3be57a4
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/B.class#<init>() 11bdcbe9f3f7f7c023a7e4951d0acaf8
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class#<init>() 3b756c66acbf481f573af7452158a92d
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#foo() e576b8ccee16850b25a947469b5764a7
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class#<clinit>() aaa276c10d53208aff96ee46cf6313e4
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#inc(I) 6370bb696f586ecfc577d590489a2c3c
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTest.class#CTest() be21d417e0793463eec7075644f7c829 com/example/AppTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/RandomTest.class#testMethod1() a0608c31836dbb47c102c55526b02855 com/example/RandomTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#inc2() 5f0198aa1bd13773affd33b5f8929bc1
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTTest.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace com/example/AppTTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTTTest.class#countSynchronizedCollection() de4b829183f217fee90224538489573d com/example/AppTTTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#testMethod5() 81651c5b0fdc180a3a2a56a6f7f77be6 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#testMethod3() 28a21e7a80c32233a882b2cf7b58a2b0 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#access$1(Lcom/example/G;I) 1646eefc5f4f0c81147af97a971b85d0
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#access$0(Lcom/example/G;) 39b0501d4043cdfd23ce52af59fa0891
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class#<init>() c2fa67121e4124674ff39b68263fe1cf
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#in3() 530b38548b46914a18e45a9dd4653e89
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#<clinit>() 22e64ee59fa8d33117f59cfe1b550b79
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#foo() 0f1d98e766b8bc1afb9175a5f54bea7e
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#negativeTest1() 9615a9bc7419b0ea5bd4dfe1092661c5 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTest.class#BTest() d921def5b9bfd798947a93944e9b7414 com/example/AppTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#foo2() a9fc1e0bb859bef1dd1f1a70daaee377
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class#foo2() a6c3b718c9d64474484ec5fd7f74b435
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G$F.class#<init>(Lcom/example/G;) 4dc7a1934be62ae4f23334293a8a626a
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class#foo2() 8863908d67a0db187218477b1c0a46cd
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/B.class#foo() 64aa273fc2d6b773cb418ad0f73c561b
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#main([Ljava/lang/String;) e7c7a935a07e39606c63a56df0b79604
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#countT(Ljava/util/Collection;) cf0f542b271ed8ebbfb04a4616fedce5
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTTTest.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace com/example/AppTTTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#testMethod1() 920a9a0a7f96c8377126e3b0a820ee76 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#<init>() 4871c861868f9a199efb71204e0d68d3
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class#inc() fbf6f50e39ef8eaee03654e50b01ec58
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class#foo() 25ddca30885855ad35399eaed7466ebf
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#<init>() 88b3647844b4950c13077d71731fc3a6
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTTest.class#countSynchronizedCollection() 68cae57c1c167b2499f2383487b2d5d9 com/example/AppTTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#inc() a16d742c99ac6c325299fd82934b3757
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/C.class#foo() b007c79c7e882495f2e8ee9a1d5ead4d
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#testMethod4() 0ca6f2eedb869ae2f11deebd5fbee6a9 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#testMethod2() 40bd30677cd2bac2adc85168fb97b04d com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/RandomTest.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace com/example/RandomTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/App.class#count(Ljava/util/Collection;) f1948fd6c3e91e90700d98414e27c394
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTest.class#ATest() 4fbb5059037f1b14d3ade67d7f824164 com/example/AppTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#inc() 46b3b386484ca59bede61548e56cb7f9
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#in2() 68c9f07d000d3b0cc700b63bfcbf1bf2
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/A.class#inc() 8a18a26be67f5ff20eca6277ef97ac0c
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/AppTest.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace com/example/AppTest
+file:/home/mopuser/earv-research/starts-example/target/test-classes/com/example/DTest.class#negativeTest2() 05ec87bc676c95df1a704aa55f0334a8 com/example/DTest
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G.class#foo3() f068faa03e877b0a3aed3f902a66f4ba
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/App.class#<init>() b83cc2d61310fa76aa02fd20fdd8bace
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/E.class#foo3() acb3b547de8ced60cd192195b33a5af2
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/G$F.class#f() 9442e00075f4e4b74950698679960be3
+file:/home/mopuser/earv-research/starts-example/target/classes/com/example/D.class#foo2() 03c8388d909ce8ddf4bed65ec17733ed

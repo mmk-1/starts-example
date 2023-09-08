@@ -1,21 +1,6 @@
 <aspectj>
 <aspects>
-<aspect name="mop.ArrayDeque_UnsafeIteratorMonitorAspect"/>
-<aspect name="mop.Collections_SynchronizedCollectionMonitorAspect"/>
-<aspect name="mop.Collection_UnsafeIteratorMonitorAspect"/>
-<aspect name="mop.Socket_CloseOutputMonitorAspect"/>
-<aspect name="mop.NavigableSet_ModificationMonitorAspect"/>
-<aspect name="mop.ListIterator_RemoveOnceMonitorAspect"/>
-<aspect name="mop.ListIterator_SetMonitorAspect"/>
-<aspect name="mop.NavigableMap_ModificationMonitorAspect"/>
-<aspect name="mop.List_UnsynchronizedSubListMonitorAspect"/>
-<aspect name="mop.NavigableMap_UnsafeIteratorMonitorAspect"/>
-<aspect name="mop.Collections_SynchronizedMapMonitorAspect"/>
-<aspect name="mop.List_UnsafeListIteratorMonitorAspect"/>
-<aspect name="mop.SocketImpl_CloseOutputMonitorAspect"/>
-<aspect name="mop.Iterator_RemoveOnceMonitorAspect"/>
 <aspect name="mop.Iterator_HasNextMonitorAspect"/>
-<aspect name="mop.Map_UnsafeIteratorMonitorAspect"/>
 </aspects>
 <weaver options="-nowarn -Xlint:ignore">
 </weaver>

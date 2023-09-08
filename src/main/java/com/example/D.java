@@ -21,7 +21,7 @@ public class D {
     }   
 
     public void inc(){
-        i+=20;
+        i+=12;
     }
 
 
@@ -29,6 +29,12 @@ public class D {
         System.out.println("inc3");
         foo();
     }
+
+        public void in3(){
+        System.out.println("inc3");
+        foo();
+    }
+
 
 }
 
