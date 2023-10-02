@@ -1,41 +1,21 @@
 package com.example;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.ListIterator;
+
 public class D {
-    private int i = 0;
-    private void foo() {
-        System.out.println("D foo");
-        System.out.println("D foo");
+
+    public void vD() {
+        List<String> list = new ArrayList<>();
+        list.add("Item 1");
+        list.add("Item 2");
+        ListIterator<String> iterator = list.listIterator();
+        iterator.next();
     }
 
-    private void foo2() {
-        System.out.println("D foo");
-        System.out.println("D foo");
-        foo();
-        foo3();
+    public void nVD() {
+        System.out.println("nVD");
     }
-    private void foo3() {
-        System.out.println("D foo");
-        System.out.println("D foo");
-        System.out.println("D foo");
-        i+=6; 
-    }   
-
-    public void inc(){
-        i+=12;
-    }
-
-
-    public void in2(){
-        System.out.println("inc3");
-        foo();
-    }
-
-        public void in3(){
-        System.out.println("inc3");
-        foo();
-    }
-
 
 }
-
-

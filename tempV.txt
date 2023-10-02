@@ -1,0 +1,13 @@
+    @Test
+    public void negativeTest8() {
+        Map<Integer, String> synchronizedMap = Collections.synchronizedMap(new HashMap<Integer, String>());
+
+        synchronizedMap.put(1, "Item 1");
+        synchronizedMap.put(2, "Item 2");
+
+        Set<Map.Entry<Integer, String>> synchronizedSet = synchronizedMap.entrySet();
+
+        for (Map.Entry<Integer, String> entry : synchronizedSet) {
+            System.out.println("Entry: " + entry.getKey() + " - " + entry.getValue());
+        }
+    }

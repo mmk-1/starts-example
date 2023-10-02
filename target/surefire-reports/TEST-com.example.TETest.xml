@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.003" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.TETest" time="0.144" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk/jre/lib/amd64"/>
@@ -31,7 +31,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.15.49-linuxkit-pr"/>
+    <property name="os.version" value="6.3.13-linuxkit"/>
     <property name="library.jansi.path" value="/home/mopuser/apache-maven/lib/jansi-native"/>
     <property name="user.home" value="/home/mopuser"/>
     <property name="user.timezone" value="GMT"/>
@@ -60,7 +60,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="ATest" classname="com.example.AppTest" time="0.003"/>
-  <testcase name="BTest" classname="com.example.AppTest" time="0"/>
-  <testcase name="CTest" classname="com.example.AppTest" time="0"/>
+  <testcase name="negativeTest4" classname="com.example.TETest" time="0.003"/>
+  <testcase name="negativeTest8" classname="com.example.TETest" time="0.141"/>
 </testsuite>
