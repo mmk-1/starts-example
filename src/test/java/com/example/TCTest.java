@@ -17,19 +17,19 @@ public class TCTest {
     @Test
     public void uVCTest1() {
         C c_Variable = new C();
-        c_Variable.vC();
+        c_Variable.cViolationMethod();
     }
 
     @Test
     public void uVCTest2() {
         C c_Variable = new C();
-        c_Variable.vB();
+        c_Variable.bViolationMethod();
     }
 
     @Test
     public void uCTest() {
         C c_Variable = new C();
-        c_Variable.nVC();
+        c_Variable.cMethod();
     }
 
     @Test

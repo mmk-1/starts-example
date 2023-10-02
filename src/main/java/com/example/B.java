@@ -6,8 +6,11 @@ import java.util.ConcurrentModificationException;
 import java.util.List;
 
 class B {
-    
-    public void vB() {
+
+    int bField = 0;
+
+    public void bViolationMethod() {
+        bField += 1;
         List<Integer> l;
         l = new ArrayList<Integer>(Arrays.asList(4, 5, 2, 3, 1));
         try{
@@ -18,4 +21,15 @@ class B {
             System.out.println("ConcurrentModificationException");
         }
     }
+
+    public void bMethod() {
+        System.out.println("bMethod");
+    }
+
+    public void bFieldMethod() {
+        System.out.println("bFieldMethod");
+        bField -= 1;
+    }
+
+
 }

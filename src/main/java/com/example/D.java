@@ -6,7 +6,7 @@ import java.util.ListIterator;
 
 public class D {
 
-    public void vD() {
+    public void dViolationMethod() {
         List<String> list = new ArrayList<>();
         list.add("Item 1");
         list.add("Item 2");
@@ -14,8 +14,8 @@ public class D {
         iterator.next();
     }
 
-    public void nVD() {
-        System.out.println("nVD");
+    public void dMethod() {
+        System.out.println("dMethod");
     }
 
 }

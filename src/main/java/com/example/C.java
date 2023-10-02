@@ -6,7 +6,7 @@ import java.util.List;
 
 class C extends B {
 
-    public void vC() {
+    public void cViolationMethod() {
         List<String> list = new ArrayList<>();
         list.add("Item 1");
         list.add("Item 2");
@@ -22,8 +22,18 @@ class C extends B {
         }
     }
 
-    public void nVC() {
-        System.out.println("nVC");
+    public void cMethod() {
+        System.out.println("cMethod");
     }
 
+    public void usingDViolationMethod(){
+        D d_Variable = new D();
+        d_Variable.dViolationMethod();
+    }
+
+    public void usingDMethod(){
+        D d_Variable = new D();
+        d_Variable.dMethod();
+    }
 }
+

@@ -4,7 +4,7 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 
 public class E {
-    public void vE() {
+    public void eViolatoinMethod() {
         try {
             ByteArrayInputStream byteArrayInputStream = new ByteArrayInputStream(new byte[] { 1, 2, 3 });
             byteArrayInputStream.close();
@@ -13,17 +13,17 @@ public class E {
         }
     }
 
-    public void nVE() {
-        System.out.println("nVE");
+    public void eMethod() {
+        System.out.println("eMethod");
     }
 
-    public void uVD(){
+    public void usingDViolationMethod(){
         D d_Variable = new D();
-        d_Variable.vD();
+        d_Variable.dViolationMethod();
     }
 
-    public void uNVD(){
+    public void usingDMethod(){
         D d_Variable = new D();
-        d_Variable.nVD();
+        d_Variable.dMethod();
     }
 }

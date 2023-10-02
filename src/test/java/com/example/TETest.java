@@ -13,13 +13,13 @@ public class TETest {
     @Test 
     public void uVETest(){
         E e_Variable = new E();
-        e_Variable.vE();
+        e_Variable.eViolatoinMethod();
     }
 
     @Test
     public void uETest(){
         E e_Variable = new E();
-        e_Variable.nVE();
+        e_Variable.eMethod();
     }
 
     @Test
