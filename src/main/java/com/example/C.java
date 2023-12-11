@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import it.unimi.dsi.fastutil.ints.IntArrayList;
+
 class C extends B {
 
     public void cViolationMethod() {
@@ -34,6 +36,18 @@ class C extends B {
     public void usingDMethod(){
         D d_Variable = new D();
         d_Variable.dMethod();
+    }
+
+    public void externalLib(){
+        IntArrayList l = new IntArrayList();
+        l.add(1);
+        l.add(2);
+        l.add(3);
+        // l.add(4);    
+
+        Iterator i = l.iterator();
+        i.next();
+
     }
 }
 

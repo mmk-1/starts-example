@@ -40,4 +40,10 @@ public class TCTest {
         byte[] n = bout.toByteArray();
         stream.flush();
     }
+
+    @Test
+    public void CExternalLibTest() {
+        C c_Variable = new C();
+        c_Variable.externalLib();
+    }
 }
